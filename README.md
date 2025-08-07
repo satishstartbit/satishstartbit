@@ -1,33 +1,18 @@
-💫 About Me
-Hi, I’m Satish — a full-stack developer with 3+ years of hands-on experience creating robust web and mobile solutions. I’m deeply comfortable across the entire MERN stack and enjoy taking features all the way from idea to production, blending modern UI/UX with secure, scalable backend logic. I'm passionate about learning new tools and using smart, automated workflows to build impactful digital products.
-
-**💻 Tech Stack & Tools**
-**Frontend:**
-React.js (strong proficiency), Next.js, TypeScript, JavaScript
-HTML5, CSS3, Tailwind CSS, Material UI, Chakra UI, Chart.js, Bootstrap
-
-**Mobile:**
-React Native (Expo), Ionic
-
-**Backend:**
-Node.js, Express.js, FastAPI (Python)
-RESTful and GraphQL APIs
-Auth: JWT, OAuth, role-based access
-
-**Data:**
-MongoDB, PostgreSQL, MySQL, SQLite, Supabase, Firebase
-
-**Cloud/DevOps:**
-AWS (S3, SES, SQS, EC2), Cloudflare, Vercel, Docker, Bitbucket & GitHub CI/CD
-
-**AI/ML:**
-Experience integrating OpenAI GPT, LangChain, Hugging Face, Google Gemini and other LLMs
+# 💫 About Me:
+💫 About Me <br>Hi, I’m Satish — a full-stack developer with 3+ years of hands-on experience creating robust web and mobile solutions. I’m deeply comfortable across the entire MERN stack and enjoy taking features all the way from idea to production, blending modern UI/UX with secure, scalable backend logic. I'm passionate about learning new tools and using smart, automated workflows to build impactful digital products.<br><br>💻 Tech Stack & Tools Frontend: React.js (strong proficiency), Next.js, TypeScript, JavaScript HTML5, CSS3, Tailwind CSS, Material UI, Chakra UI, Chart.js, Bootstrap<br><br>Mobile: React Native (Expo), Ionic<br><br>Backend: Node.js, Express.js, FastAPI (Python) RESTful and GraphQL APIs Auth: JWT, OAuth, role-based access<br><br>Data: MongoDB, PostgreSQL, MySQL, SQLite, Supabase, Firebase<br><br>Cloud/DevOps: AWS (S3, SES, SQS, EC2), Cloudflare, Vercel, Docker, Bitbucket & GitHub CI/CD<br><br>AI/ML: Experience integrating OpenAI GPT, LangChain, Hugging Face, Google Gemini and other LLMs<br><br>Cloud & Hosting AWS Cloudflare Vercel<br><br>DevOps & CI/CD Bitbucket GitHub Actions
 
 
-**Cloud & Hosting**
-AWS Cloudflare Vercel
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishchoudhary@startbitsolutions.com) 
 
+# 💻 Tech Stack:
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=Twilio&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=satishstartbit&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=satishstartbit&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=satishstartbit&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-**DevOps & CI/CD**
-Bitbucket GitHub Actions
+---
+[![](https://visitcount.itsvg.in/api?id=satishstartbit&icon=0&color=0)](https://visitcount.itsvg.in)
 
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
