@@ -1,6 +1,20 @@
 # 💫 About Me:
-<br>Hi, I’m Satish — a full-stack developer with 3+ years of hands-on experience creating robust web and mobile solutions. I’m deeply comfortable across the entire MERN stack and enjoy taking features all the way from idea to production, blending modern UI/UX with secure, scalable backend logic. I'm passionate about learning new tools and using smart, automated workflows to build impactful digital products.<br>
+Hi, I’m Satish — a results-driven Full-Stack Developer with a strong background in the MERN stack, AWS services, and React Native. I have a proven ability to deliver robust and scalable solutions across both web and mobile platforms.
 
+I enjoy architecting complete systems—designing intuitive user interfaces, building secure, high-performance APIs, and deploying resilient cloud infrastructure. My experience includes leading the development of business-critical ERP and logistics platforms where technical quality directly translates into business impact.
+
+**Over the years, I’ve:**
+Designed and implemented complex, multi-role applications for logistics and enterprise operations
+Led full feature development cycles, ensuring solutions are both scalable and maintainable
+Worked with modern technologies like Next.js, TypeScript, Tailwind CSS, GraphQL, and Material UI
+Collaborated closely with cross-functional teams to align technical direction with real business goals
+Contributed to architectural decisions and mentored teammates to raise technical standards
+
+**🧩 What I value:**
+Writing clean, reusable, and testable code
+Efficient problem-solving with a focus on meaningful, real-world outcomes
+Staying agile and adaptable in fast-paced, evolving environments
+Bridging the gap between technology and business to deliver practical, high-impact results
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:satishchoudhary@startbitsolutions.com) 
